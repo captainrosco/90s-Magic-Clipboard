@@ -1,0 +1,55 @@
+.container {
+  margin: 0 auto;
+  text-align: center;
+  width: 500px;
+  font-family: 'Roboto', sans-serif;
+}
+
+legend {
+  padding: 15px;
+  background-color: #d3dfee;
+
+  border-radius: 5px;
+}
+
+input {
+  border-radius: 5px;
+}
+
+button {
+  border-radius: 5px;
+}
+
+fieldset {
+  background-color: #95b3d7;
+  border: 5px;
+  border-radius: 5px;
+}
+
+h1 {
+  color: white;
+}
+
+h3, h5 {
+  color: #333;
+}
+
+ol {
+  list-style: none;
+  background-color: white;
+  color: #005aa2;
+}
+
+#input {
+  margin-bottom: 15px;
+}
+
+li {
+  padding: 15px;
+}
+
+.remove {
+  margin-left: 15px;
+  font-size: 8px;
+  float: right;
+}
